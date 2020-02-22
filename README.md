@@ -11,7 +11,7 @@ This Jupyter Notebook is a hands-on project performed during the Databases and S
 * account on Db2 database
 * Jupyter Notebook
 * Python 3
-* Python libraries: Pandas, Numby, Matplotlib, Sklearn 
+* Python libraries: Pandas, Numpy, Matplotlib, Sklearn 
 
 ### Installing
 
